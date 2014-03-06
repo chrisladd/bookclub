@@ -14,10 +14,17 @@
 
 ## Lesson 3: More on Classes
 
-- PRESENT: More on Classes (this is a big one).
-- FOR NEXT TIME: Inheritence.
+##### We will cover
+
+- More on Classes (this is a big one).
+
+##### Required Reading
+
+- Kochan, Chapter 7. "More on Classes"
 
 ## Lesson 4: UIKit basics
+
+##### We will cover
 	
 - UIViewController
 - UIView (where we'll spend most of our time)
