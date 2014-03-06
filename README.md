@@ -16,21 +16,26 @@
 
 - PRESENT: More on Classes (this is a big one).
 - FOR NEXT TIME: Inheritence.
+
+## Lesson 4: UIKit basics
 	
-## Lesson 4: Inheritence
+- UIViewController
+- UIView (where we'll spend most of our time)
+
+##### Required Reading
+
+- [View Programming Guide](https://developer.apple.com/library/ios/documentation/windowsviews/conceptual/viewpg_iphoneos/CreatingViews/CreatingViews.html) (Apple, web page)
+- [Views](http://www.stanford.edu/class/cs75n/3_Views.pdf) (Stanford, PDF)
+
+## Lesson 5: Inheritence
 
 - PRESENT: Inheritence. Lots to talk about there. Start showing real code.
 - JUMPTO: Foundation. Introduce Chapters 14 and 15.
 
-## Lesson 5: Foundation
+## Lesson 6: Foundation
 
 - Foundation basics. 14, 15.
 - FOR NEXT TIME: 20. Intro to cocoa. & cocoa touch.
-
-## Lesson 6: UIKit basics
-	
-- UIViewController
-- UIView
 
 ## Lesson 7: Text
 		
