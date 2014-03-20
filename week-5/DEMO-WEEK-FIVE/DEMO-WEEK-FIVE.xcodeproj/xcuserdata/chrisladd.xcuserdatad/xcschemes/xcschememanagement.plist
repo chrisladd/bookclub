@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Week 3.xcscheme</key>
+		<key>DEMO-WEEK-FIVE.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>8EB40D5418D21EC400A0185F</key>
+		<key>8E1135E218DB5A4C00576046</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8EB40D6F18D21EC400A0185F</key>
+		<key>8E1135FD18DB5A4C00576046</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,18 +1,18 @@
 //
-//  Week_3Tests.m
-//  Week 3Tests
+//  DEMO_WEEK_FIVETests.m
+//  DEMO-WEEK-FIVETests
 //
-//  Created by Christopher Ladd on 3/13/14.
+//  Created by Christopher Ladd on 3/20/14.
 //  Copyright (c) 2014 NYTimes. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface Week_3Tests : XCTestCase
+@interface DEMO_WEEK_FIVETests : XCTestCase
 
 @end
 
-@implementation Week_3Tests
+@implementation DEMO_WEEK_FIVETests
 
 - (void)setUp
 {
