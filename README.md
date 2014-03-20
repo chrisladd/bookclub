@@ -1,26 +1,14 @@
-# Lesson Plan
+# Lesson Plan (next up)
 
-## Lesson 1: intro, integers, methods, objects
+## For Thursday, March 27
 
-- intro, working with integers
-- PRESENT: that, + classes, objects, methods.
-- READ FOR NEXT TIME: chapters 3-6. (classes, data types, looping, making decisions).
+- We'll be continuing to talk about classes, subclasses, and polymorphism. 
+- Re-read chapters 7 and 8.
+- **FOR HOMEWORK** pull down the example from `Week 5`, and extend it by
+	- extending the existing project to make the NYTFish eat the NYTPlant
+	- adding at least one more animal, and overriding the appropriate methods to make them eat properly
+	- adding at least one method to NYTAnimal, and extending each of the existing animals to respond to that method appropriately. Note that, in some cases, 
 
-## Lesson 2: Program logic in ObjC
-
-- Program logic in ObjC. For, while, if, etc…
-- PRESENT: More on Classes
-- READ FOR NEXT TIME: Chapter 7, more on classes.
-
-## Lesson 3: More on Classes
-
-##### We will cover
-
-- More on Classes (this is a big one).
-
-##### Required Reading
-
-- Kochan, Chapter 7. "More on Classes"
 
 ## Lesson 4: UIKit basics
 
@@ -56,4 +44,28 @@
 
 	
 	
+# Previous Lessons:
+
+## Lesson 1: intro, integers, methods, objects
+
+- intro, working with integers
+- PRESENT: that, + classes, objects, methods.
+- READ FOR NEXT TIME: chapters 3-6. (classes, data types, looping, making decisions).
+
+## Lesson 2: Program logic in ObjC
+
+- Program logic in ObjC. For, while, if, etc…
+- PRESENT: More on Classes
+- READ FOR NEXT TIME: Chapter 7, more on classes.
+
+## Lesson 3: More on Classes
+
+##### We will cover
+
+- More on Classes (this is a big one).
+
+##### Required Reading
+
+- Kochan, Chapter 7. "More on Classes"
+
 
